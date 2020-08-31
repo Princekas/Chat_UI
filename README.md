@@ -1,3 +1,6 @@
+<img src="image1.png" width="900" height="400">
+<img src="image2.png" width="900" height="400">
+
 # ChatUI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
