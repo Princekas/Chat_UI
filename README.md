@@ -1,5 +1,5 @@
-<img src="image1.png" width="900" height="400">
-<img src="Imageaa.png" width="900" height="400">
+<img src="image1.png" width="900" height="500">
+<img src="Imageaa.png" width="900" height="500">
 
 # ChatUI
 
